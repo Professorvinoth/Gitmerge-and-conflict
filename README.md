@@ -1,0 +1,1 @@
+# Gitmerge-and-conflict

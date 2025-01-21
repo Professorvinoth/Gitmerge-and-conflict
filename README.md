@@ -1,1 +1,1 @@
-# Gitmerge-and-conflict
+# update Gitmerge-and-conflict adding developer a story

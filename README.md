@@ -1,1 +1,1 @@
-# Gitmerge-and-conflict
+# update Gitmerge-and-conflict Developer b story
